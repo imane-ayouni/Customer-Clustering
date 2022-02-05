@@ -37,6 +37,15 @@ For the business development process in general, and for supply chain specifical
 ## Steps followed
 - Part I : Preliminary processing and merging datasets
 - Part II : Feature engineering and exploratory data analysis
+- Part III : Customer clustering 
+
+
+## Models Used 
+
+
+
+## Evaluation matrices used
+
 
 
 
