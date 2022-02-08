@@ -31,7 +31,7 @@ The links between these datasets can be represented as follows:
 For the business development process in general, and for supply chain specifically, an understanding of customer behavior and geographic conditions is a useful method to make better decisions. By extracting commonly shared demographic- and geodemographic characteristics clusters (or segments) can be defined. This allows to apply tailor-made strategies to target customers and optimize supply chain more effectively.
 
 ## Objectives 
-- Gather relevant information from teh datasets
+- Gather relevant information from the datasets
 - Visually explore the dataset to understand more about the business and its trends
 - Build clustering models to be able to best segment the customers of the company
 
