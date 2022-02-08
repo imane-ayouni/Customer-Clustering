@@ -30,8 +30,10 @@ The links between these datasets can be represented as follows:
 ## Market Segmentation
 For the business development process in general, and for supply chain specifically, an understanding of customer behavior and geographic conditions is a useful method to make better decisions. By extracting commonly shared demographic- and geodemographic characteristics clusters (or segments) can be defined. This allows to apply tailor-made strategies to target customers and optimize supply chain more effectively.
 
-## Objective 
-
+## Objectives 
+- Gather relevant information from teh datasets
+- Visually explore the dataset to understand more about the business and its trends
+- Build clustering models to be able to best segment the customers of the company
 
 
 ## Steps followed
@@ -42,11 +44,17 @@ For the business development process in general, and for supply chain specifical
 
 
 ## Models Used 
+- Kmeans (centroid based clustering)
+- DBSCAN (density based clustering)
+- Gaussian Mixture (distribution based clustering)
 
 
 
 ## Evaluation matrices used
-
+- Silhouette plot and score
+- Elbow plot
+- CH index
+- DB index
 
 
 
